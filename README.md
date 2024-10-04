@@ -1,6 +1,12 @@
 <p>
 <h1 align="center">Hi there 👋 I am Adrian</h1>
 <p align="center">a passionate Backend Developer from Indonesia with expertise in <b>PHP</b>, <b>Laravel</b>, and <b>Flutter</b>.</p>
+
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/adrianfnd/adrianfnd"/> 
+  <img src="https://badges.pufler.dev/repos/adrianfnd"/>
+  <img src="https://badges.pufler.dev/commits/monthly/adrianfnd" />
+</p>
 </p>
 
 <h2>Skills</h2>
@@ -66,12 +72,6 @@
     </a>
   </li>
 </ul>
-</p>
-
-<p>
-  <img src="https://badges.pufler.dev/visits/adrianfnd/adrianfnd"/> 
-  <img src="https://badges.pufler.dev/repos/adrianfnd"/>
-  <img src="https://badges.pufler.dev/commits/monthly/adrianfnd" />
 </p>
 
 <h2>GitHub Stats</h2>
