@@ -1,6 +1,8 @@
 <p>
 <h1 align="center">Hi there 👋 I am Adrian</h1>
-<p align="center">a passionate Backend Developer from Indonesia with expertise in <b>PHP</b>, <b>Laravel</b>, and <b>Flutter</b>.</p>
+<p align="center">
+  A dedicated and enthusiastic Backend Developer from Indonesia, specializing in <b>PHP</b> and <b>Laravel</b>, with experience in building backend solutions. Currently exploring <b>Flutter</b> for mobile application development, aiming to deliver seamless user experiences across platforms. Passionate about writing clean, efficient code and continuously expanding knowledge in the latest web and mobile technologies.
+</p>
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/adrianfnd/adrianfnd"/> 
@@ -69,6 +71,11 @@
   <li>
     <a href="https://github.com/adrianfnd/project-mindmatrix" target="_blank">
       [Project - Frontend Developer] Mindmatrix (2024)
+    </a>
+  </li>
+    <li>
+    <a href="https://github.com/adrianfnd/project-bank-sampah-backend" target="_blank">
+      [Project - Backend Developer] Bank Sampah (2024)
     </a>
   </li>
 </ul>
