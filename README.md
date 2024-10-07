@@ -38,6 +38,16 @@
     </a>
     <p>Full-stack <b>Laravel</b> development and AWS/Xendit integration.</p>
   </li>
+    <li>
+    <a href="https://github.com/adrianfnd/project-desa-babakan" target="_blank">
+      [Project - Frontend Developer] Landing Page Desa Babakan (2024)
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/adrianfnd/project-pengelolaan-kegiatan-karyawan-yakes-telkom" target="_blank">
+      [Project - Fullstack Developer] Pengelolaan Kegiatan Karyawan Yakes Telkom (2024)
+    </a>
+  </li>
   <li>
     <a href="https://github.com/adrianfnd/project-sukseskontraktor" target="_blank">
       [Project - Fullstack Developer] Sukseskontraktor (2024)
