@@ -84,7 +84,7 @@
     </a>
   </li>
     <li>
-    <a href="https://github.com/adrianfnd/project-bank-sampah-backend" target="_blank">
+    <a>
       [Project - Backend Developer] Bank Sampah (2024)
     </a>
   </li>
