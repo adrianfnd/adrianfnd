@@ -44,10 +44,10 @@
     </a>
   </li>
   <li>
-    <a href="https://membership.juaraparkir.com/" target="_blank">
+    <a href="https://juaradigital.co.id" target="_blank">
       [Freelance - Fullstack Developer] PT. Juara Digital Platform (2024-2025)
     </a>
-    <p>Developed a web-based membership application for Juara Parkir using <b>Laravel</b>, integrating <b>Xendit</b> for payment processing.</p>
+    <p>Developed a web-based membership application for <a href="https://membership.juaraparkir.com" target="_blank">Juara Parkir</a> using <b>Laravel</b>, integrating <b>Xendit</b> for payment processing.</p>
   </li>
 </ul>
 </p>
