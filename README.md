@@ -39,51 +39,6 @@
     <p>Full-stack <b>Laravel</b> development and AWS/Xendit integration.</p>
   </li>
     <li>
-    <a href="https://github.com/adrianfnd/project-desa-babakan" target="_blank">
-      [Project - Frontend Developer] Landing Page Desa Babakan (2024)
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/adrianfnd/project-pengelolaan-kegiatan-karyawan-yakes-telkom" target="_blank">
-      [Project - Fullstack Developer] Pengelolaan Kegiatan Karyawan Yakes Telkom (2024)
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/adrianfnd/project-sukseskontraktor" target="_blank">
-      [Project - Fullstack Developer] Sukseskontraktor (2024)
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/adrianfnd/project-project-lintas-anugrah-cargo" target="_blank">
-      [Project - Backend Developer] Lintas Anugrah Cargo (2024)
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/adrianfnd/project-iconplus-vehicle-rental" target="_blank">
-      [Project - Backend Developer] Iconplus Vehicle Rental (2024)
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/adrianfnd/project-danceconnect" target="_blank">
-      [Project - Backend Developer] Danceconnect (2024)
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/adrianfnd/project-barrier-parking-simulation" target="_blank">
-      [Project - Frontend Developer] Barrier Parking Simulation (2024)
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/adrianfnd/project-management" target="_blank">
-      [Project - Backend Developer] Project Management (2024)
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/adrianfnd/project-mindmatrix" target="_blank">
-      [Project - Frontend Developer] Mindmatrix (2024)
-    </a>
-  </li>
-    <li>
     <a>
       [Project - Backend Developer] Bank Sampah (2024)
     </a>
