@@ -48,7 +48,7 @@
     <a href="https://membership.juaraparkir.com" target="_blank">
       [Project - Fullstack Developer] Juara Parkir (2024-2025)
     </a>
-    <p>Developed a web-based membership Juara Parkir application for <a href="[https://membership.juaraparkir.com](https://juaradigital.co.id)" target="_blank">PT Juara Digital Platform</a> using <b>Laravel</b>, integrating <b>Xendit</b> for payment processing.</p>
+    <p>Developed a web-based membership Juara Parkir application for <a href="https://juaradigital.co.id" target="_blank">PT Juara Digital Platform</a> using <b>Laravel</b>, integrating <b>Xendit</b> for payment processing.</p>
   </li>
 </ul>
 </p>
