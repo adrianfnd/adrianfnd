@@ -27,21 +27,27 @@
 
 <ul>
   <li>
+    <a href="https://www.linkedin.com/company/schoolfess" target="_blank">
+      [Intern - Fullstack Developer] PT. Komunita Ambis Nusantara (2023-2024)
+    </a>
+    <p>Full-stack <b>Laravel</b> development and AWS/Xendit integration.</p>
+  </li>
+  <li>
     <a href="https://www.linkedin.com/company/femalepreneurindonesia" target="_blank">
-      [Intern - Backend Developer] PT. Perempuan Hebat Indonesia (2023-2024)
+      [Freelance - Backend Developer] PT. Perempuan Hebat Indonesia (2023-2024)
     </a>
     <p>Backend API development using <b>Laravel</b>.</p>
   </li>
   <li>
-    <a href="https://www.linkedin.com/company/schoolfess" target="_blank">
-      [Freelance - Fullstack Developer] PT. Komunita Ambis Nusantara (2023-2024)
-    </a>
-    <p>Full-stack <b>Laravel</b> development and AWS/Xendit integration.</p>
-  </li>
-    <li>
     <a>
       [Project - Backend Developer] Bank Sampah (2024)
     </a>
+  </li>
+  <li>
+    <a href="https://membership.juaraparkir.com/" target="_blank">
+      [Freelance - Fullstack Developer] PT. Juara Digital Platform (2024-2025)
+    </a>
+    <p>Developed a web-based membership application for Juara Parkir using <b>Laravel</b>, integrating <b>Xendit</b> for payment processing.</p>
   </li>
 </ul>
 </p>
