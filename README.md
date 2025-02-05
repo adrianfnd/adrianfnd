@@ -42,12 +42,13 @@
     <a>
       [Project - Backend Developer] Bank Sampah (2024)
     </a>
+    <p>Developed the backend for the Bank Sampah application using <b>Laravel</b>, implementing core functionalities and system logic.</p>
   </li>
   <li>
-    <a href="https://juaradigital.co.id" target="_blank">
-      [Freelance - Fullstack Developer] PT. Juara Digital Platform (2024-2025)
+    <a href="https://membership.juaraparkir.com" target="_blank">
+      [Project - Fullstack Developer] Juara Parkir (2024-2025)
     </a>
-    <p>Developed a web-based membership application for <a href="https://membership.juaraparkir.com" target="_blank">Juara Parkir</a> using <b>Laravel</b>, integrating <b>Xendit</b> for payment processing.</p>
+    <p>Developed a web-based membership Juara Parkir application for <a href="[https://membership.juaraparkir.com](https://juaradigital.co.id)" target="_blank">PT Juara Digital Platform</a> using <b>Laravel</b>, integrating <b>Xendit</b> for payment processing.</p>
   </li>
 </ul>
 </p>
